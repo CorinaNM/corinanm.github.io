@@ -4,7 +4,7 @@
 ::: {.column width="55%"}
 The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.
 
-The app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter.... [Check out the shiny dashboard](https://corinanm.github.io/mysite/){target="_blank"}
+The app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter.... [Check out the shiny dashboard](https://corinanm.github.io/mysite/){target="_blank"} 
 :::
 
 ::: {.column width="5%"}
