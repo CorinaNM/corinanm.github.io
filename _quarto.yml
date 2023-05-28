@@ -4,17 +4,46 @@ project:
 
 website:
   title: "mysite"
+  site-url: https://corinanm.github.io/mysite/
+  page-navigation: true
+  reader-mode: true  
+  favicon: "data/images/logo_rs.jpg"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    search: true
+    background: light
+    collapse-below: lg
+    type: light
+    logo: "data/images/logo_rs.jpg"
+    right:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Sobre mí"
+        href: about.qmd
+      - text: "Proyectos"
+        href: projectos.qmd
+      - text: "Cursos"
+        href: Cursos.qmd  
+      - text: "Blog"
+        href: Blog.qmd 
+      - text: "Recursos"
+        href: Recursos.qmd
+      - icon: github
+        href: https://github.com/sparklyr/sparklyr
+        
+  page-footer:
+    left: "© 2023 Corina NM"
+    right: |
+      Made with ♥ using `{Quarto}`
+    center: |
+      
+      <center>
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

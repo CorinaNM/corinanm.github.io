@@ -1,11 +1,26 @@
 ---
 title: "mysite"
+image: data/images/logo_rs.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/SamanthaCsik
+    - icon: github
+      text: GitHub
+      href: https://github.com/samanthacsik
+    - icon: envelope
+      text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<!-- ::: {.small-text} -->
+Hi there! I'm Sam (and my last name is pronounced "chick"). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that supports both of those things. Outside of work, I'm an avid hiker, novice (but passionate) meal-maker, and I really love the color green. You can learn more by poking around my website!
+<!-- ::: -->
