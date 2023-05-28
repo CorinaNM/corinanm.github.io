@@ -11,30 +11,26 @@ date: 10-24-2022
 categories: [Quarto, R, MEDS] # self-defined categories
 citation: 
   url: https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ 
-image: preview_image.jpg
+image: data/images/logo_rs.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 ## I. Before we chat about blogs...
 
-About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
+About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me\[\^1\] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
 
 ## II. What's the difference between a website and a blog?
 
-About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
-
+About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me\[\^1\] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
 
 ## III. Adding a blog to your personal Quarto website
 
-About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
+About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me\[\^1\] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
 
 ## IV. Add a blog post to your blog
 
-About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
-
+About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me\[\^1\] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
 
 ## V. Some additional authoring features to explore
 
-About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
-
-
+About a year ago, I wrote my first ever blog post \~ about blogging \~ and tbh I'm a *little* embarrassed that this is only my third post here (does it count that I have *ideas* for blog posts squirreled away at least?? `r fontawesome::fa("grin-beam-sweat", fill = "#64605f", a11y = "sem")`). Regardless, you should trust me\[\^1\] when I say that blogging is a great exercise for you to practice as regularly as you can -- it can help you to:
