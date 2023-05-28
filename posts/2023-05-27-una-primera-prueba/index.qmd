@@ -13,6 +13,11 @@ citation:
   url: https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ 
 image: CopyOflogo_rs.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
 ---
 
 ## I. Before we chat about blogs...
