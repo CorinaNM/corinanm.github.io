@@ -229,5 +229,33 @@
     "title": "blog post title",
     "section": "V. Some additional authoring features to explore",
     "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+  },
+  {
+    "objectID": "projectos.html",
+    "href": "projectos.html",
+    "title": "mysite",
+    "section": "",
+    "text": "The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.\nThe app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter…. Check out the shiny dashboard"
+  },
+  {
+    "objectID": "projectos.html#collaborating-between-python-and-r-using-reticulate",
+    "href": "projectos.html#collaborating-between-python-and-r-using-reticulate",
+    "title": "mysite",
+    "section": "Collaborating between Python and R using Reticulate",
+    "text": "Collaborating between Python and R using Reticulate\n\n\n\n\n\n\nBoth R and Python are powerful data science languages and can be used to accomplish end-to-end analytics projects. Reticulate makes it easy to collaborate and talk between the two languages. I think of it as a translator on my fingertips.\nMy teammate and I participated in Microsoft hackathon where we accessed data from APIs using Python, pulled the output in R using Reticulate and created visualizations to derive business insights using Ggplot2… Check out how"
+  },
+  {
+    "objectID": "projectos.html#data-visualizations---animation-and-interactivity-using-gganimate-and-plotly",
+    "href": "projectos.html#data-visualizations---animation-and-interactivity-using-gganimate-and-plotly",
+    "title": "mysite",
+    "section": "Data visualizations - Animation and Interactivity using Gganimate and Plotly",
+    "text": "Data visualizations - Animation and Interactivity using Gganimate and Plotly\n\n\nAnimation brings in a key component of analysis where the third parameter you want to animate is not directly visible in your plot. Sometimes it can tell a powerful story and sometimes it can just add some flair to an otherwise low-key story.\nThis blog goes through examples and code to show how easy it is to use gganimate and plotly packages to animate your data visualizations and make them interactive…. Continue reading"
+  },
+  {
+    "objectID": "projectos.html#sales-forecasting-and-anomaly-detection-shiny-dashboard",
+    "href": "projectos.html#sales-forecasting-and-anomaly-detection-shiny-dashboard",
+    "title": "mysite",
+    "section": "Sales forecasting and anomaly detection Shiny dashboard",
+    "text": "Sales forecasting and anomaly detection Shiny dashboard\n\n\n\n\n\n\nThis dashboard, built with Shiny Flex capability, looks at data from EverythingYouWillNeed.com website (fake data) to report out odaily product sales. You can select the product, the dates to analyze and click on apply to replicate the report, check sales forecast and anomalies for the specific product choice.\nGiving your stakeholders the ability to play with product grain forecast and anomaly detection is a great was to get them on-board prior to deploying any model at scale. This Shiny dashboard was built specifically for that purpose…. Link to play with the Shiny dashboard"
   }
 ]

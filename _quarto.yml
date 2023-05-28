@@ -5,7 +5,7 @@ project:
 website:
   title: "mysite"
   site-url: https://corinanm.github.io/mysite/
-  page-navigation: true
+  page-navigation: false
   reader-mode: true  
   favicon: "data/images/logo_rs.jpg"
   navbar:
@@ -42,7 +42,7 @@ format:
   html:
     theme: zephyr
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
 
 editor: visual
