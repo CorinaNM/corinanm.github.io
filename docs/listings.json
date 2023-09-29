@@ -2,12 +2,12 @@
   {
     "listing": "/Blog.html",
     "items": [
-      "/posts/2023-05-27-una-primera-prueba/index.html",
-      "/posts/post 2/index.html",
-      "/posts/post 3/index.html",
-      "/posts/post 4/index.html",
-      "/posts/post 5/index.html",
-      "/posts/post 6/index.html"
+      "/posts/post-1/index.html",
+      "/posts/post-2/index.html",
+      "/posts/post-3/index.html",
+      "/posts/post-4/index.html",
+      "/posts/post-5/index.html",
+      "/posts/post-6/index.html"
     ]
   }
 ]

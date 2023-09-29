@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "mysite"
+  title: "Corina NM"
   site-url: https://corinanm.github.io/mysite/
   page-navigation: false
   reader-mode: true  
@@ -17,12 +17,8 @@ website:
     right:
       - text: "Inicio"
         href: index.qmd
-      - text: "Sobre mí"
-        href: about.qmd
       - text: "Proyectos"
-        href: projectos.qmd
-      - text: "Cursos"
-        href: Cursos.qmd  
+        href: Proyectos.qmd
       - text: "Blog"
         href: Blog.qmd 
       - text: "Recursos"

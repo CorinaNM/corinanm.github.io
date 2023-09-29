@@ -1,261 +1,310 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "Blog.html",
     "href": "Blog.html",
-    "title": "My Blog",
+    "title": "Blog",
     "section": "",
-    "text": "Quarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nCorina Navarrete\n\n\nOct 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nCorina Navarrete\n\n\nOct 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nCorina Navarrete\n\n\nOct 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nCorina Navarrete\n\n\nOct 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nCorina Navarrete\n\n\nOct 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nCorina Navarrete\n\n\nOct 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mysite",
+    "title": "Corina NM",
     "section": "",
-    "text": "Hi there! I’m Sam (and my last name is pronounced “chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that supports both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and I really love the color green. You can learn more by poking around my website!"
+    "text": "¡Hola! , yo soy una analista de datos, combinando estadística avanzada, ciencia de datos y tecnologías de la información geográfica aplicados principalmente a ecología, biodiversidad, clima, recursos hídricos, epidemiología y últimamente en ciencias sociales. También he desarrollado talleres en el sector público y privado de mi País, adicionalmente también he brindado asesorías a tesistas de licenciatura y maestría tanto en metodología de la investigación así como en el análisis de datos e implementación de metodologías."
   },
   {
-    "objectID": "posts/2023-05-27-una-primera-prueba/index.html",
-    "href": "posts/2023-05-27-una-primera-prueba/index.html",
-    "title": "blog post title",
-    "section": "",
-    "text": "About a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/2023-05-27-una-primera-prueba/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "href": "posts/2023-05-27-una-primera-prueba/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "title": "blog post title",
-    "section": "II. What’s the difference between a website and a blog?",
-    "text": "II. What’s the difference between a website and a blog?\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/2023-05-27-una-primera-prueba/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "href": "posts/2023-05-27-una-primera-prueba/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "title": "blog post title",
-    "section": "III. Adding a blog to your personal Quarto website",
-    "text": "III. Adding a blog to your personal Quarto website\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/2023-05-27-una-primera-prueba/index.html#iv.-add-a-blog-post-to-your-blog",
-    "href": "posts/2023-05-27-una-primera-prueba/index.html#iv.-add-a-blog-post-to-your-blog",
-    "title": "blog post title",
-    "section": "IV. Add a blog post to your blog",
-    "text": "IV. Add a blog post to your blog\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/2023-05-27-una-primera-prueba/index.html#v.-some-additional-authoring-features-to-explore",
-    "href": "posts/2023-05-27-una-primera-prueba/index.html#v.-some-additional-authoring-features-to-explore",
-    "title": "blog post title",
-    "section": "V. Some additional authoring features to explore",
-    "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 2/index.html",
-    "href": "posts/post 2/index.html",
+    "objectID": "posts/post-1/index.html",
+    "href": "posts/post-1/index.html",
     "title": "blog post title",
     "section": "",
-    "text": "About a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
   },
   {
-    "objectID": "posts/post 2/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "href": "posts/post 2/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "title": "blog post title",
-    "section": "II. What’s the difference between a website and a blog?",
-    "text": "II. What’s the difference between a website and a blog?\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 2/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "href": "posts/post 2/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "title": "blog post title",
-    "section": "III. Adding a blog to your personal Quarto website",
-    "text": "III. Adding a blog to your personal Quarto website\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 2/index.html#iv.-add-a-blog-post-to-your-blog",
-    "href": "posts/post 2/index.html#iv.-add-a-blog-post-to-your-blog",
-    "title": "blog post title",
-    "section": "IV. Add a blog post to your blog",
-    "text": "IV. Add a blog post to your blog\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 2/index.html#v.-some-additional-authoring-features-to-explore",
-    "href": "posts/post 2/index.html#v.-some-additional-authoring-features-to-explore",
-    "title": "blog post title",
-    "section": "V. Some additional authoring features to explore",
-    "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 3/index.html",
-    "href": "posts/post 3/index.html",
+    "objectID": "posts/post-1/index.html#i.-section-one",
+    "href": "posts/post-1/index.html#i.-section-one",
     "title": "blog post title",
     "section": "",
-    "text": "About a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
   },
   {
-    "objectID": "posts/post 3/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "href": "posts/post 3/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
+    "objectID": "posts/post-1/index.html#ii.-section-two",
+    "href": "posts/post-1/index.html#ii.-section-two",
     "title": "blog post title",
-    "section": "II. What’s the difference between a website and a blog?",
-    "text": "II. What’s the difference between a website and a blog?\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "II. Section Two",
+    "text": "II. Section Two\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 3/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "href": "posts/post 3/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
+    "objectID": "posts/post-1/index.html#iii.-section-three",
+    "href": "posts/post-1/index.html#iii.-section-three",
     "title": "blog post title",
-    "section": "III. Adding a blog to your personal Quarto website",
-    "text": "III. Adding a blog to your personal Quarto website\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "III. Section Three",
+    "text": "III. Section Three\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 3/index.html#iv.-add-a-blog-post-to-your-blog",
-    "href": "posts/post 3/index.html#iv.-add-a-blog-post-to-your-blog",
+    "objectID": "posts/post-1/index.html#iv.-section-four",
+    "href": "posts/post-1/index.html#iv.-section-four",
     "title": "blog post title",
-    "section": "IV. Add a blog post to your blog",
-    "text": "IV. Add a blog post to your blog\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "IV. Section Four",
+    "text": "IV. Section Four\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 3/index.html#v.-some-additional-authoring-features-to-explore",
-    "href": "posts/post 3/index.html#v.-some-additional-authoring-features-to-explore",
+    "objectID": "posts/post-1/index.html#v.-section-five",
+    "href": "posts/post-1/index.html#v.-section-five",
     "title": "blog post title",
-    "section": "V. Some additional authoring features to explore",
-    "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "V. Section Five",
+    "text": "V. Section Five\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 4/index.html",
-    "href": "posts/post 4/index.html",
-    "title": "blog post title",
-    "section": "",
-    "text": "About a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 4/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "href": "posts/post 4/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "title": "blog post title",
-    "section": "II. What’s the difference between a website and a blog?",
-    "text": "II. What’s the difference between a website and a blog?\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 4/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "href": "posts/post 4/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "title": "blog post title",
-    "section": "III. Adding a blog to your personal Quarto website",
-    "text": "III. Adding a blog to your personal Quarto website\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 4/index.html#iv.-add-a-blog-post-to-your-blog",
-    "href": "posts/post 4/index.html#iv.-add-a-blog-post-to-your-blog",
-    "title": "blog post title",
-    "section": "IV. Add a blog post to your blog",
-    "text": "IV. Add a blog post to your blog\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 4/index.html#v.-some-additional-authoring-features-to-explore",
-    "href": "posts/post 4/index.html#v.-some-additional-authoring-features-to-explore",
-    "title": "blog post title",
-    "section": "V. Some additional authoring features to explore",
-    "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 5/index.html",
-    "href": "posts/post 5/index.html",
+    "objectID": "posts/post-2/index.html",
+    "href": "posts/post-2/index.html",
     "title": "blog post title",
     "section": "",
-    "text": "About a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
   },
   {
-    "objectID": "posts/post 5/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "href": "posts/post 5/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "title": "blog post title",
-    "section": "II. What’s the difference between a website and a blog?",
-    "text": "II. What’s the difference between a website and a blog?\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 5/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "href": "posts/post 5/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "title": "blog post title",
-    "section": "III. Adding a blog to your personal Quarto website",
-    "text": "III. Adding a blog to your personal Quarto website\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 5/index.html#iv.-add-a-blog-post-to-your-blog",
-    "href": "posts/post 5/index.html#iv.-add-a-blog-post-to-your-blog",
-    "title": "blog post title",
-    "section": "IV. Add a blog post to your blog",
-    "text": "IV. Add a blog post to your blog\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 5/index.html#v.-some-additional-authoring-features-to-explore",
-    "href": "posts/post 5/index.html#v.-some-additional-authoring-features-to-explore",
-    "title": "blog post title",
-    "section": "V. Some additional authoring features to explore",
-    "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
-  },
-  {
-    "objectID": "posts/post 6/index.html",
-    "href": "posts/post 6/index.html",
+    "objectID": "posts/post-2/index.html#i.-section-one",
+    "href": "posts/post-2/index.html#i.-section-one",
     "title": "blog post title",
     "section": "",
-    "text": "About a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
   },
   {
-    "objectID": "posts/post 6/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
-    "href": "posts/post 6/index.html#ii.-whats-the-difference-between-a-website-and-a-blog",
+    "objectID": "posts/post-2/index.html#ii.-section-two",
+    "href": "posts/post-2/index.html#ii.-section-two",
     "title": "blog post title",
-    "section": "II. What’s the difference between a website and a blog?",
-    "text": "II. What’s the difference between a website and a blog?\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "II. Section Two",
+    "text": "II. Section Two\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 6/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
-    "href": "posts/post 6/index.html#iii.-adding-a-blog-to-your-personal-quarto-website",
+    "objectID": "posts/post-2/index.html#iii.-section-three",
+    "href": "posts/post-2/index.html#iii.-section-three",
     "title": "blog post title",
-    "section": "III. Adding a blog to your personal Quarto website",
-    "text": "III. Adding a blog to your personal Quarto website\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "III. Section Three",
+    "text": "III. Section Three\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 6/index.html#iv.-add-a-blog-post-to-your-blog",
-    "href": "posts/post 6/index.html#iv.-add-a-blog-post-to-your-blog",
+    "objectID": "posts/post-2/index.html#iv.-section-four",
+    "href": "posts/post-2/index.html#iv.-section-four",
     "title": "blog post title",
-    "section": "IV. Add a blog post to your blog",
-    "text": "IV. Add a blog post to your blog\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "IV. Section Four",
+    "text": "IV. Section Four\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "posts/post 6/index.html#v.-some-additional-authoring-features-to-explore",
-    "href": "posts/post 6/index.html#v.-some-additional-authoring-features-to-explore",
+    "objectID": "posts/post-2/index.html#v.-section-five",
+    "href": "posts/post-2/index.html#v.-section-five",
     "title": "blog post title",
-    "section": "V. Some additional authoring features to explore",
-    "text": "V. Some additional authoring features to explore\nAbout a year ago, I wrote my first ever blog post ~ about blogging ~ and tbh I’m a little embarrassed that this is only my third post here (does it count that I have ideas for blog posts squirreled away at least?? Face grin beam sweat). Regardless, you should trust me[^1] when I say that blogging is a great exercise for you to practice as regularly as you can – it can help you to:"
+    "section": "V. Section Five",
+    "text": "V. Section Five\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "projectos.html",
-    "href": "projectos.html",
-    "title": "mysite",
+    "objectID": "posts/post-3/index.html",
+    "href": "posts/post-3/index.html",
+    "title": "blog post title",
     "section": "",
-    "text": "The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.\nThe app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter…. Check out the shiny dashboard"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
   },
   {
-    "objectID": "projectos.html#proyecto-2",
-    "href": "projectos.html#proyecto-2",
-    "title": "mysite",
-    "section": "Proyecto 2",
-    "text": "Proyecto 2\n\n\n\n\n\n\nBoth R and Python are powerful data science languages and can be used to accomplish end-to-end analytics projects. Reticulate makes it easy to collaborate and talk between the two languages. I think of it as a translator on my fingertips.\nMy teammate and I participated in Microsoft hackathon where we accessed data from APIs using Python, pulled the output in R using Reticulate and created visualizations to derive business insights using Ggplot2… Check out how"
+    "objectID": "posts/post-3/index.html#i.-section-one",
+    "href": "posts/post-3/index.html#i.-section-one",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
   },
   {
-    "objectID": "projectos.html#proyecto-3",
-    "href": "projectos.html#proyecto-3",
-    "title": "mysite",
-    "section": "Proyecto 3",
-    "text": "Proyecto 3\n\n\nAnimation brings in a key component of analysis where the third parameter you want to animate is not directly visible in your plot. Sometimes it can tell a powerful story and sometimes it can just add some flair to an otherwise low-key story.\nThis blog goes through examples and code to show how easy it is to use gganimate and plotly packages to animate your data visualizations and make them interactive…. Continue reading"
+    "objectID": "posts/post-3/index.html#ii.-section-two",
+    "href": "posts/post-3/index.html#ii.-section-two",
+    "title": "blog post title",
+    "section": "II. Section Two",
+    "text": "II. Section Two\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
   },
   {
-    "objectID": "projectos.html#proyecto-4",
-    "href": "projectos.html#proyecto-4",
-    "title": "mysite",
-    "section": "Proyecto 4",
-    "text": "Proyecto 4\n\n\n\n\n\n\nThis dashboard, built with Shiny Flex capability, looks at data from EverythingYouWillNeed.com website (fake data) to report out odaily product sales. You can select the product, the dates to analyze and click on apply to replicate the report, check sales forecast and anomalies for the specific product choice.\nGiving your stakeholders the ability to play with product grain forecast and anomaly detection is a great was to get them on-board prior to deploying any model at scale. This Shiny dashboard was built specifically for that purpose…. Link to play with the Shiny dashboard"
+    "objectID": "posts/post-3/index.html#iii.-section-three",
+    "href": "posts/post-3/index.html#iii.-section-three",
+    "title": "blog post title",
+    "section": "III. Section Three",
+    "text": "III. Section Three\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-3/index.html#iv.-section-four",
+    "href": "posts/post-3/index.html#iv.-section-four",
+    "title": "blog post title",
+    "section": "IV. Section Four",
+    "text": "IV. Section Four\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-3/index.html#v.-section-five",
+    "href": "posts/post-3/index.html#v.-section-five",
+    "title": "blog post title",
+    "section": "V. Section Five",
+    "text": "V. Section Five\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-4/index.html",
+    "href": "posts/post-4/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
+  },
+  {
+    "objectID": "posts/post-4/index.html#i.-section-one",
+    "href": "posts/post-4/index.html#i.-section-one",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
+  },
+  {
+    "objectID": "posts/post-4/index.html#ii.-section-two",
+    "href": "posts/post-4/index.html#ii.-section-two",
+    "title": "blog post title",
+    "section": "II. Section Two",
+    "text": "II. Section Two\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-4/index.html#iii.-section-three",
+    "href": "posts/post-4/index.html#iii.-section-three",
+    "title": "blog post title",
+    "section": "III. Section Three",
+    "text": "III. Section Three\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-4/index.html#iv.-section-four",
+    "href": "posts/post-4/index.html#iv.-section-four",
+    "title": "blog post title",
+    "section": "IV. Section Four",
+    "text": "IV. Section Four\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-4/index.html#v.-section-five",
+    "href": "posts/post-4/index.html#v.-section-five",
+    "title": "blog post title",
+    "section": "V. Section Five",
+    "text": "V. Section Five\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-5/index.html",
+    "href": "posts/post-5/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi: \n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
+  },
+  {
+    "objectID": "posts/post-5/index.html#i.-section-one",
+    "href": "posts/post-5/index.html#i.-section-one",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi: \n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
+  },
+  {
+    "objectID": "posts/post-5/index.html#ii.-section-two",
+    "href": "posts/post-5/index.html#ii.-section-two",
+    "title": "blog post title",
+    "section": "II. Section Two",
+    "text": "II. Section Two\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-5/index.html#iii.-section-three",
+    "href": "posts/post-5/index.html#iii.-section-three",
+    "title": "blog post title",
+    "section": "III. Section Three",
+    "text": "III. Section Three\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-5/index.html#iv.-section-four",
+    "href": "posts/post-5/index.html#iv.-section-four",
+    "title": "blog post title",
+    "section": "IV. Section Four",
+    "text": "IV. Section Four\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-5/index.html#v.-section-five",
+    "href": "posts/post-5/index.html#v.-section-five",
+    "title": "blog post title",
+    "section": "V. Section Five",
+    "text": "V. Section Five\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-6/index.html",
+    "href": "posts/post-6/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
+  },
+  {
+    "objectID": "posts/post-6/index.html#i.-section-one",
+    "href": "posts/post-6/index.html#i.-section-one",
+    "title": "blog post title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:\n\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)"
+  },
+  {
+    "objectID": "posts/post-6/index.html#ii.-section-two",
+    "href": "posts/post-6/index.html#ii.-section-two",
+    "title": "blog post title",
+    "section": "II. Section Two",
+    "text": "II. Section Two\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-6/index.html#iii.-section-three",
+    "href": "posts/post-6/index.html#iii.-section-three",
+    "title": "blog post title",
+    "section": "III. Section Three",
+    "text": "III. Section Three\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-6/index.html#iv.-section-four",
+    "href": "posts/post-6/index.html#iv.-section-four",
+    "title": "blog post title",
+    "section": "IV. Section Four",
+    "text": "IV. Section Four\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "posts/post-6/index.html#v.-section-five",
+    "href": "posts/post-6/index.html#v.-section-five",
+    "title": "blog post title",
+    "section": "V. Section Five",
+    "text": "V. Section Five\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Feugiat sed lectus vestibulum mattis ullamcorper. Proin sed libero enim sed faucibus turpis. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Integer eget aliquet nibh praesent tristique magna. Quis risus sed vulputate odio ut enim. Arcu cursus vitae congue mauris rhoncus aenean vel. Placerat in egestas erat imperdiet sed euismod nisi:"
+  },
+  {
+    "objectID": "Proyectos.html",
+    "href": "Proyectos.html",
+    "title": "Corina NM",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor.\n\nFocos de calor e Incendios forestales\nAerosoles e Incendios forestales"
+  },
+  {
+    "objectID": "Proyectos.html#aplicativos-de-incendios-forestales-con-google-earth-engine",
+    "href": "Proyectos.html#aplicativos-de-incendios-forestales-con-google-earth-engine",
+    "title": "Corina NM",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor.\n\nFocos de calor e Incendios forestales\nAerosoles e Incendios forestales"
+  },
+  {
+    "objectID": "Proyectos.html#análisis-de-la-producción-forestal-con-sql-y-python",
+    "href": "Proyectos.html#análisis-de-la-producción-forestal-con-sql-y-python",
+    "title": "Corina NM",
+    "section": "Análisis de la producción forestal con SQL y Python",
+    "text": "Análisis de la producción forestal con SQL y Python\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor… Disponible pronto"
+  },
+  {
+    "objectID": "Proyectos.html#visualización-de-especies-maderables-tropicales-en-tableau",
+    "href": "Proyectos.html#visualización-de-especies-maderables-tropicales-en-tableau",
+    "title": "Corina NM",
+    "section": "Visualización de Especies maderables tropicales en Tableau",
+    "text": "Visualización de Especies maderables tropicales en Tableau\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor…. Disponible pronto"
+  },
+  {
+    "objectID": "Proyectos.html#análisis-de-la-deforestación-y-cambio-climático-usando-r",
+    "href": "Proyectos.html#análisis-de-la-deforestación-y-cambio-climático-usando-r",
+    "title": "Corina NM",
+    "section": "Análisis de la deforestación y cambio climático usando R",
+    "text": "Análisis de la deforestación y cambio climático usando R\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor …. Disponible pronto"
+  },
+  {
+    "objectID": "Proyectos.html#teledetección-con-r-y-python",
+    "href": "Proyectos.html#teledetección-con-r-y-python",
+    "title": "Corina NM",
+    "section": "Teledetección con R y Python",
+    "text": "Teledetección con R y Python\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor…. Disponible pronto"
   }
 ]

@@ -1,0 +1,88 @@
+## Aplicativos de incendios forestales con Google earth engine
+
+::: columns
+::: {.column width="55%"}
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor.
+</p>
+
+[Focos de calor e Incendios forestales](https://databosque.users.earthengine.app/view/focosgoes){target="_blank"}
+
+[Aerosoles e Incendios forestales](https://databosque.users.earthengine.app/view/aerosoles){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](data/images/gee_goes.png)
+:::
+:::
+
+## Análisis de la producción forestal con SQL y Python
+
+::: columns
+::: {.column width="40%"}
+![](data/images/prod_forest.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor... [Disponible pronto](https://corinanm.github.io/mysite/){target="_blank"}
+</p>
+:::
+:::
+
+## Visualización de Especies maderables tropicales en Tableau
+
+::: columns
+::: {.column width="55%"}
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor.... [Disponible pronto](https://corinanm.github.io/mysite/){target="_blank"}
+</p>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](data/images/madera_tropi.png)
+:::
+:::
+
+## Análisis de la deforestación y cambio climático usando R
+
+::: columns
+::: {.column width="40%"}
+![](data/images/defor_clim.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor .... [Disponible pronto](https://corinanm.github.io/mysite/){target="_blank"}
+</p>
+:::
+:::
+
+## Teledetección con R y Python
+
+::: columns
+::: {.column width="55%"}
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac dui lectus. Quisque viverra consequat justo, et posuere orci commodo et. Aliquam id mi quam. Maecenas in ultricies leo. In auctor eget turpis sed elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a egestas dui. Donec congue euismod facilisis. Sed porttitor nisl a commodo vulputate. Maecenas at tellus arcu. Morbi venenatis facilisis tempor.... [Disponible pronto](https://corinanm.github.io/mysite/){target="_blank"}
+</p>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](data/images/telede_ryp.png)
+:::
+:::
