@@ -24,7 +24,7 @@ website:
       - text: "Recursos"
         href: Recursos.qmd
       - icon: github
-        href: https://github.com/sparklyr/sparklyr
+        href: https://github.com/CorinaNM
         
   page-footer:
     left: "© 2023 Corina NM"
